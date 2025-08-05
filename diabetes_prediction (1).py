@@ -18,7 +18,7 @@ diabetes_dataset = pd.read_csv('/diabetes.csv')
 
 
 
-pd.read_csv?
+pd.read_csv
 
 diabetes_dataset.head()
 
