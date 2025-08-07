@@ -14,7 +14,7 @@ from sklearn.model_selection import train_test_split
 from sklearn import svm
 from sklearn.metrics import accuracy_score
 
-diabetes_dataset = pd.read_csv('C:/Users/SIDDHI/PycharmProjects/JupyterProject/Diabetes/diabetes (1).csv')
+diabetes_dataset = pd.read_csv('C:/Users/SIDDHI/PycharmProjects/JupyterProject/Diabetes/dia.csv')
 
 
 
